@@ -1,7 +1,7 @@
 def iseven(n):
-    if n%2==0:
-	return True
+    if n%2 == 0:
+        return True
     else:
-	return False
-
+        False
 iseven(5)
+iseven(10)	
